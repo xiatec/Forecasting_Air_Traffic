@@ -10,7 +10,8 @@ This repository contains machine learning models for predicting air traffic dela
 
 ## Data
 
-The project uses EUROCONTROL R&D data (not provided) and airport coordinates for the top 50 European airports.
+1. EUROCONTROL R&D data 
+2. Airport coordinates for the top 50 European airports.
 
 ## Dependencies
 
